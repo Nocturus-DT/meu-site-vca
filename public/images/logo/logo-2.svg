@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 138 27" width="138" height="27">
+	<defs>
+		<image  width="18" height="25" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAZCAMAAAAL146mAAAAAXNSR0IB2cksfwAAAIFQTFRFAAAAAAAAVFRUYGBgU1NTVVVVV1dXTk5OVlZWW1tbZWVlaWlpcXFxUFBQXV1dk5OTlZWVWlpaTU1N8PDwUVFRZmZmUlJSTk5OZGRkU1NTX19fU1NTREREWFhYUFBQT09PXFxcYGBgU1NTYWFhW1tbtra2UVFRwcHBUVFRvr6+wsLCpcK/9AAAACt0Uk5TAP8tGAcHBgcGCRETAgsQAwQcAgAOJxwPJgQHFhEmDQEHBxcHBwAgAisCAZPccbAAAACmSURBVHic3Y7tCoJgDEafhzArIomKwh8iSmH3fy9F30mBJBWRQWHCen0lyi6hwdh2YNshiiAgn1YXUkTKqJIZ2Q8y0urzjcwUMB/1B1C7Aw3yRjaTViKwrtYFaOepzqJzViuqonsS9I5kL9Zjnv1YMDhQPxhEGtmRTe71R2fnhAq5obtVxoWEtxGKv/aXH68hFxjNvdW3KoIZgmnJXjXjCX6R4C/QC/WiQi98+wN+AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 26px;fill: #000000;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<use id="Design sem nome" href="#img1" x="7" y="1"/>
+	<text id="VCA" style="transform: matrix(1,0,0,1,42,22)" >
+		<tspan x="0" y="0" class="t0">V</tspan><tspan  y="0" class="t0">C</tspan><tspan  y="0" class="t0">A</tspan><tspan  y="0" class="t0">
+</tspan>
+	</text>
+</svg>
